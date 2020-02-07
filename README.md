@@ -13,6 +13,26 @@ Based on my Instagram post: https://www.instagram.com/p/B5cY3DDAG_3/
 
 ## Awesome Software Engineers List
 
+['How I Became a Self-Taught Software Engineer at a Major Tech Company'](https://code.likeagirl.io/thoughts-on-becoming-a-self-taught-software-engineer-c8d8e7bde704) by Lexis Hanson 
+
+['How I went from mopping floors at a tanning salon to becoming a Software Developer'](https://codeburst.io/how-i-went-from-mopping-floors-at-a-tanning-salon-to-becoming-a-software-developer-7dc4d2e8d21a) by [Nnenna](https://medium.com/@nnennahacks)
+
+['Breaking Into Tech: No College Degree Required'](https://medium.com/better-programming/breaking-into-tech-no-college-degree-required-b61a31503ee4) by Jason Wang
+
+['Lessons learned from my journey as a self-taught developer'](https://medium.com/free-code-camp/lessons-learned-from-my-journey-as-a-self-taught-developer-41b97067730) by Victor Cassone
+
+['How did I land my first job as a self-taught developer? I prepared like crazy.'](https://medium.com/free-code-camp/how-i-set-myself-up-to-land-my-first-job-as-a-self-taught-developer-43d326ea6b67) by Jonathan Puc
+
+['I’m a Self-Taught Developer and I Used These Free Resources to Land My First Job'](https://medium.com/better-programming/im-a-self-taught-developer-and-i-used-these-free-resources-to-land-my-first-job-5091b01293c4) by Anton Ödman
+
+['A Self Taught Programmer’s Journey'](https://medium.com/mindorks/a-self-taught-programmers-journey-6899cff1aef0) by Amit Shekhar
+
+['How I went from newbie to Software Engineer in 9 months while working full time'](https://medium.com/free-code-camp/how-i-went-from-newbie-to-software-engineer-in-9-months-while-working-full-time-460bd8485847) by Austin Tackaberry
+
+['5 things I learnt as a self-taught female developer'](https://code.likeagirl.io/5-things-i-learnt-as-a-self-taught-female-developer-7f5099400a) by Stacy Goh
+
+
+
 
 
 
