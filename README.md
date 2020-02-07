@@ -31,6 +31,10 @@ Based on my Instagram post: https://www.instagram.com/p/B5cY3DDAG_3/
 
 ['5 things I learnt as a self-taught female developer'](https://code.likeagirl.io/5-things-i-learnt-as-a-self-taught-female-developer-7f5099400a) by Stacy Goh
 
+['From Zero to Hero (How I became a professional developer in a year)'](https://hackernoon.com/from-zero-to-hero-how-i-became-a-professional-developer-in-a-year-26114ebc9724) by Stanislav Kozlovski
+
+['How I Became a Programmer within a Year and How You Can Too'](https://medium.com/@aellenj/how-i-became-a-programmer-within-a-year-and-how-you-can-too-19daf085deaf) by Jonathan Aellen
+
 
 
 
