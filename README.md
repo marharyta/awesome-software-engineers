@@ -35,6 +35,9 @@ Based on my Instagram post: https://www.instagram.com/p/B5cY3DDAG_3/
 
 ['How I Became a Programmer within a Year and How You Can Too'](https://medium.com/@aellenj/how-i-became-a-programmer-within-a-year-and-how-you-can-too-19daf085deaf) by Jonathan Aellen
 
+['Mornings, Nights, and Weekends: How I Changed Careers and Became a Programmer'](https://www.freecodecamp.org/news/mornings-nights-and-weekends-how-i-changed-careers-and-became-a-programmer-197ce46ccc1c/) by Daniel K. Hunter
+
+
 
 
 
