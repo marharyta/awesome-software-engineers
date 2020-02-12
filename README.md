@@ -37,6 +37,9 @@ Based on my Instagram post: https://www.instagram.com/p/B5cY3DDAG_3/
 
 ['Mornings, Nights, and Weekends: How I Changed Careers and Became a Programmer'](https://www.freecodecamp.org/news/mornings-nights-and-weekends-how-i-changed-careers-and-became-a-programmer-197ce46ccc1c/) by Daniel K. Hunter
 
+['Diary of a Self-Taught Engineer'](https://medium.com/swlh/diary-of-a-self-taught-engineer-a51d83dfcfc7) by Amina Adewusi
+
+
 
 
 
